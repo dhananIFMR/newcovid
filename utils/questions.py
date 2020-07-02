@@ -6,7 +6,7 @@ business_recovery_questions = [
     "Average no. of part-time employees before lockdown",
     "Business performance compared expectation in a no-lockdown scenario",
     "If your business is running, Percentage of sales/revenue are you getting as compared with no-lockdown period",
-    "Impact on profit",
+    "Impact on profits",
     "Expected time of business recovery",
     "Intention to apply for relief",
 ]
@@ -49,7 +49,7 @@ questions = [
     "Average no. of part-time employees before lockdown",
     "Business performance compared expectation in a no-lockdown scenario",
     "If your business is running, Percentage of sales/revenue are you getting as compared with no-lockdown period",
-    "Impact on profit",
+    "Impact on profits",
     "How much cash reserves do you have?",
     "Did you try borrowing to cover expenses?",
     "Were you able to secure a loan?",
