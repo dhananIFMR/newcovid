@@ -67,7 +67,7 @@ def make_household_multi(responses, question):
                 "y": values,
                 "type": "bar",
                 "name": key,
-                'marker': {"color": colors}
+                #'marker': {"color": colors}
             }
         )
     fig = dcc.Graph(

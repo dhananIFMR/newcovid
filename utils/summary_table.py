@@ -5,7 +5,7 @@ from dash_table.Format import Format, Scheme, Sign, Symbol
 summary_table = [
     {
         "question": "Gender",
-        "path": {"key": "Female", "meta": {"displayName": "Female-led [pct]"}},
+        "path": {"key": "Female", "meta": {"displayName": "Female-led %"}},
     },
     {
         "question": "Average no. of full-time employees before lockdown",
@@ -18,41 +18,41 @@ summary_table = [
     },
     {
         "question": "Business Registration",
-        "path": {"key": "Yes", "meta": {"displayName": "Registered Business [pct]"}},
+        "path": {"key": "Yes", "meta": {"displayName": "Registered Business %"}},
     },
     {
         "question": "Category of Business",
         "path": {
             "key": "Essential",
-            "meta": {"displayName": "Essential Business [pct]"},
+            "meta": {"displayName": "Essential Business %"},
         },
     },
     {
         "question": "Business Type",
         "path": {
             "key": "Fixed Store/ Shop",
-            "meta": {"displayName": "Fixed Store [pct]"},
+            "meta": {"displayName": "Fixed-store %"},
         },
     },
     {
         "question": "Business Type",
         "path": {
             "key": "Home based business",
-            "meta": {"displayName": "Home based business [pct]"},
+            "meta": {"displayName": " Home-based Business %"},
         },
     },
     {
         "question": "Business Type",
         "path": {
             "key": "Small manufacturing plant",
-            "meta": {"displayName": "Small manufacturing plant [pct]"},
+            "meta": {"displayName": "Small manufacturing plant %"},
         },
     },
     {
         "question": "Business Type",
         "path": {
             "key": "Village enterprise",
-            "meta": {"displayName": "Village enterprise [pct]"},
+            "meta": {"displayName": "Village enterprise %"},
         },
     },
 ]

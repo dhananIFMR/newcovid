@@ -11,7 +11,7 @@ business_recovery_questions = [
     "Intention to apply for relief",
 ]
 credit_questions = [
-    "How much cash reserves do you currently have?",
+    "How much cash reserves do you have?",
     "Did you try borrowing to cover expenses?",
     "Were you able to secure a loan?",
     "Where did you get the loan from? (multiple choice)",
@@ -20,7 +20,7 @@ credit_questions = [
     "Average amount of cash dipped into from savings (in Rs)",
     "Payment to suppliers this month",
     "Payment to suppliers next month",
-    "Are you getting paid by your customers",
+    "Are you getting paid by your customers?",
 ]
 household_challenges_questions = [
     "Are you the sole earner for the household?",
@@ -50,7 +50,7 @@ questions = [
     "Business performance compared expectation in a no-lockdown scenario",
     "If your business is running, Percentage of sales/revenue are you getting as compared with no-lockdown period",
     "Impact on profit",
-    "How much cash reserves do you currently have?",
+    "How much cash reserves do you have?",
     "Did you try borrowing to cover expenses?",
     "Were you able to secure a loan?",
     "Where did you get the loan from? (multiple choice)",
@@ -58,7 +58,7 @@ questions = [
     "Average amount of cash dipped into from savings (in Rs)",
     "Payment to suppliers this month",
     "Payment to suppliers next month",
-    "Are you getting paid by your customers",
+    "Are you getting paid by your customers?",
     "Were employees laid off?",
     "Average no. of workers laid off temporary",
     "Average no. of workers laid off permanently",
