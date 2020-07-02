@@ -1,6 +1,6 @@
 # covid-dashboard
 
-Demo: `https://sz-test-279001.uc.r.appspot.com`
+Demo Link: `https://sz-test-279001.uc.r.appspot.com`
 
 ## Running the code
 
